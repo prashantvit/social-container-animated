@@ -1,0 +1,11 @@
+body {
+  font-family: sans-serif;
+  background-color: yellow;
+}
+
+.social {
+  background-color: red;
+  height: 100px;
+  position: fixed;
+  top: calc(50% - 50px);
+}
